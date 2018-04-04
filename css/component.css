@@ -10,11 +10,11 @@
 }
 
 .demo-1 .large-header {
-	background-image: url('../img/demo-1-bg.jpg');
+	background-image: url('img/demo-1-bg.jpg');
 }
 
 .demo-2 .large-header {
-	background-image: url('../img/demo-2-bg.jpg');
+	background-image: url('img/demo-2-bg.jpg');
 	background-position: center bottom;
 }
 
@@ -59,7 +59,7 @@
 	height: 20vw;
 	min-width: 3.5em;
 	min-height: 3.5em;
-	background: url(../img/deco.svg) no-repeat center center;
+	background: url(img/deco.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
 	top: 50%;
